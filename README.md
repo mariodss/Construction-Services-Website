@@ -47,6 +47,18 @@ I was responsible for the full website development and design process. This incl
 ## About Us Page: 
 <img width="931" height="389" alt="image" src="https://github.com/user-attachments/assets/aa67c477-0bff-4b4f-be84-1d62003dae41" />
 
+## Mobile Version:
+
+<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/b7787ed6-8dd4-4412-a309-dbea7a5c42b4" />
+<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/ab60ecb5-f29c-4aab-8561-d594e4254498" />
+<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/ae3d7088-59e2-4e1c-89c3-8f858d4b4203" />
+<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/2c089502-35d3-4ebc-9397-90ddffa3877e" />
+<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/51453470-61bb-4662-ac5f-7adffbb5fb91" />
+
+
+
+
+
 
 
 
